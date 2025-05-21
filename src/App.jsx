@@ -26,7 +26,7 @@ export default function App() {
   });
 
   return (
-    <div className="w-full  h-screen  p-8 bg-gradient-to-br from-gray-900 to-black text-white rounded-2xl shadow-2xl">
+    <div className="w-full  h-screen  p-8 bg-gradient-to-br from-gray-900 to-black text-whitel shadow-2xl">
       <h1 className="text-4xl font-extrabold mb-8 text-center text-blue-400 tracking-wide">
         📝 Todo List
       </h1>
